@@ -85,12 +85,3 @@ The ingredients and instructions fields in the recipes table are stored as text 
 5. Scalability:
 This schema is designed to be easily extendable. Additional fields can be added to the recipes or publisher tables, or new tables can be created to accommodate more complex relationships without major modifications to the existing structure.
 
-##`Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a Pull Request.
