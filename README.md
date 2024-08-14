@@ -1,5 +1,7 @@
 # PurePlates
+
 ![screenshot]([image_url](https://github.com/Lolis007/PurePlates/blob/main/Screenshot%202024-08-14%20002941.png?raw=true))
+
 A simple web application to manage and share recipes. Users can create, view, edit, and delete recipes. The app also supports image uploads for each recipe.
 
 ## Table of Contents
