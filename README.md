@@ -30,3 +30,13 @@ A simple web application to manage and share recipes. Users can create, view, ed
 ## Installation
 
 1. **Clone the repository:**
+
+##`Contributing
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a Pull Request.
