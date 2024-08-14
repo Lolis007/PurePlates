@@ -32,6 +32,7 @@ A simple web application to manage and share recipes. Users can create, view, ed
 ## Installation
 
 1. **Clone the repository:**
+2. Run `npm install` then `npm run dev` in VS code terminal to run the server at port 3000.
 
 ##`Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
